@@ -1,2 +1,2 @@
 # Alarm-clock
-Simple alarm-clock
+Simple alarm-clock for desktop
